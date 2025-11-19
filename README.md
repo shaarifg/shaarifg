@@ -1,9 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mohammad Sharif</h1>
 <h3 align="center">Experienced full stack software engineer from India </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaarifg&label=Profile%20views&color=0e75b6&style=flat" alt="shaarifg" /> </p>
-
-
 - 🔭 I’m currently working on a WebApp in AngularJs for Physiothery Patients
 
 - 🌱 I’m currently working as **Full Stack Software Engineer** in a Health-Tech startup. 
