@@ -1,7 +1,6 @@
 <h1 align="center">Hi there👋, I'm Mohammad Sharif</h1>
 <h3 align="center">Experienced full stack software engineer from India </h3>
 
-- 🔭 I’m currently working on a WebApp in AngularJs for Physiothery Patients
 
 - 🌱 I’m currently working as **Full Stack Software Engineer** in a Health-Tech startup. 
 
