@@ -3,9 +3,6 @@
 
 
 - 🌱 I’m currently working as **Full Stack Software Engineer** in a Health-Tech startup. 
-
-- 💬 Ask me about **MERN Stack, JavaScript, SQL, AWS, PHP.**
-
 - 📫 How to reach me **ermohdsharif@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
